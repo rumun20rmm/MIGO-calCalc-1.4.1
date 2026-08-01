@@ -1,14 +1,14 @@
 {
-  "short_name": "MIGO.cal",
+  "short_name": "MIGO.calCalc",
   "name": "MIGO calCalc - Personalny Kalkulator Kalorii",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "ikona MIGO calCalc 1.4 192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "icon-512.png",
+      "src": "ikona MIGO calCalc 1.4 512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
